@@ -1,0 +1,32 @@
+[
+{
+  "nodes":[
+	{"id": "Danilo", "group": 1},
+	{"id": "Liliana", "group": 1},
+	{"id": "Ariel", "group": 1},
+	{"id": "Danaé", "group": 1},
+	{"id": "Matemáticas", "group": 2},
+	{"id": "Geometría", "group": 2},
+	{"id": "Física", "group": 3},
+	{"id": "Lenguaje", "group": 4},
+	{"id": "Química", "group": 3},
+	{"id": "Historia", "group": 5},
+	{"id": "CienciasSociales", "group": 5},
+	{"id": "Artes", "group": 6}
+	]
+  "links":[
+	{"id": "Danilo", "target": "Matemáticas", "value": 20},
+	{"id": "Danilo", "target": "Geometría", "value": 20},
+	{"id": "Danilo", "target": "Física", "value": 20},
+	{"id": "Liliana", "target": "Matemáticas", "value": 20},
+	{"id": "Liliana", "target": "Química", "value": 20},
+	{"id": "Liliana", "target": "CienciasSociales", "value": 20},
+	{"id": "Ariel", "target": "Química", "value": 20},
+	{"id": "Ariel", "target": "Lenguaje", "value": 20},
+	{"id": "Ariel", "target": "Artes", "value": 20},
+	{"id": "Danaé", "target": "Lenguaje", "value": 20},
+	{"id": "Danaé", "target": "Historia", "value": 20},
+	{"id": "Danaé", "target": "Artes", "value": 20}
+	]
+}	
+]
